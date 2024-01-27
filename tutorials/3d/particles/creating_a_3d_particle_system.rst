@@ -86,7 +86,7 @@ Some of the most notable features that are lost during the conversion include:
 
 You also lose the following properties:
 
-- ``Amount Ratio``
+- ``Ammount Ratio``
 - ``Interp to End``
 - ``Damping as Friction``
 - ``Emission Shape Offset``
